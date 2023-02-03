@@ -1,4 +1,4 @@
-package oscar.learning;
+package oscar.learning.ch4;
 
 public class Clock {
 

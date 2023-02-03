@@ -1,7 +1,5 @@
 package oscar.learning.ch4;
 
-import oscar.learning.Clock;
-
 public class ClockTestDrive {
 
     public static void main(String[] args) {
